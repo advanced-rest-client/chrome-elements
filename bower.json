@@ -14,7 +14,7 @@
     "url": "git@github.com:advanced-rest-client/chrome-elements.git"
   },
   "dependencies": {
-
+    "chrome-image": "advanced-rest-client/chrome-image#^1.0.2"
   },
   "homepage": "https://github.com/advanced-rest-client/chrome-elements",
   "authors": [
@@ -26,6 +26,6 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tasks"
   ]
 }
