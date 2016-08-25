@@ -1,6 +1,6 @@
 {
   "name": "chrome-elements",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A set of elements for Advanced REST Client applicable for Chrome apps/extensions only.",
   "keywords": [
     "web-components",

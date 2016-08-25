@@ -1,0 +1,22 @@
+{
+  "name": "chrome-elements",
+  "version": "0.0.1",
+  "license": "LICENSE.md",
+  "description": "A set of elements for Advanced REST Client applicable for Chrome apps/extensions only.",
+  "devDependencies": {
+    "conventional-github-releaser": "^1.1.1",
+    "gulp-conventional-changelog": "^1.1.0",
+    "gulp": "^3.8.5",
+    "gulp-bump": "^2.1.0",
+    "gulp-git": "^1.7.1",
+    "run-sequence": "^1.1.5",
+    "gulp-util": "^3.0.7"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": false,
+  "main": [
+    "chrome-elements.html"
+  ]
+}
