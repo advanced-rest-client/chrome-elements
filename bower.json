@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "chrome-image": "advanced-rest-client/chrome-image#^1.0.3",
-    "chrome-app-filesystem": "advanced-rest-client/chrome-app-filesystem#^1.1.3"
+    "chrome-app-filesystem": "advanced-rest-client/chrome-app-filesystem#^1.1.3",
+    "chrome-file-export": "advanced-rest-client/chrome-file-export#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/chrome-elements",
   "authors": [
