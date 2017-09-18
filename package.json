@@ -1,6 +1,6 @@
 {
   "name": "chrome-elements",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "LICENSE.md",
   "description": "A set of elements for Advanced REST Client applicable for Chrome apps/extensions only.",
   "devDependencies": {
